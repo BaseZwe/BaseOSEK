@@ -1,0 +1,6 @@
+00: Infrastructure Introduction
+CVS: Git
+IDE: Eclipse CDT JUNO 
+PL:  C; Assembler
+TP:  Freescale 9S12XEP100 
+
