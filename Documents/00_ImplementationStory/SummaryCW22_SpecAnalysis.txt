@@ -8,13 +8,13 @@ validation, have you construct the right product. --> against requirements
 verification, has the product been rightly constructed. --> against specifications. 
 
 They are a bunch of acceptance tests are supplied. It could only test if the requirements are fulfilled 
-but without any traceability. is really every requirement covered ? with traceability from the requirments 
-acceptance test suites and implementation. The question can be answered. 
+but without any traceability. is really every requirement covered ? With the traceability from the requirements 
+to acceptance test suites and implementation the question can be answered. 
 
 (recommanded books, requirements engineering - third edition. )
 
 2. work needs to be done in next week 
-finish with the requirmeents analysis. have basic picuture about the whole system. 
+finish with the requirements analysis. have basic picture over the whole system. 
 optimize the project structure. 
 
 3. the work needs to be done in the furture.
